@@ -1,0 +1,2 @@
+# OpencvStaticLib
+Opencv Static Lib
